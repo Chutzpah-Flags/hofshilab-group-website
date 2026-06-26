@@ -1,0 +1,203 @@
+{
+  "brand": {
+    "name": "Hofshilab Group",
+    "tagline": "Your laboratory for your freedom"
+  },
+  "nav": {
+    "home": "Home",
+    "whatWeDo": "What we do",
+    "services": "Services",
+    "servicesDesc": "Complete strategy for your international life",
+    "products": "Products",
+    "productsDesc": "Actionable knowledge to move with autonomy",
+    "companies": "Companies",
+    "companiesDesc": "The brands that make up the group",
+    "blog": "Blog",
+    "projects": "Projects",
+    "about": "About us",
+    "contact": "Contact",
+    "cta": "Book a call",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "language": "Language"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Hofshilab Group",
+      "title": "Your laboratory for your freedom",
+      "subtitle": "We structure your international life — residency, companies, taxes and citizenship — so you can live wherever you want, on your own terms.",
+      "ctaPrimary": "Book a call",
+      "ctaSecondary": "Explore our services"
+    },
+    "purpose": {
+      "eyebrow": "Our purpose",
+      "title": "More freedom, in every dimension of your life",
+      "body": "We exist to expand your freedoms — financial, geographic, fiscal and personal. Together we map the route to live, invest and build a business without borders.",
+      "items": {
+        "financial": { "title": "Financial freedom", "desc": "Structure wealth and income to grow safely abroad." },
+        "geographic": { "title": "Geographic freedom", "desc": "Live and work from anywhere, as a true citizen of the world." },
+        "fiscal": { "title": "Fiscal freedom", "desc": "Optimize taxes legally and sleep peacefully." },
+        "personal": { "title": "Personal freedom", "desc": "A solid plan B: second citizenships and passports." }
+      }
+    },
+    "whoWeAre": {
+      "eyebrow": "Who we are",
+      "title": "A group devoted to those who want to live without borders",
+      "body": "Hofshilab Group brings together companies and specialists in international mobility, wealth structuring and global citizenship. We turn bureaucracy into strategy so you can build the life you want.",
+      "cta": "Learn more",
+      "sealValue": "100+",
+      "seal": "countries within reach"
+    },
+    "freedom": {
+      "eyebrow": "Services and products",
+      "title": "We help free people become citizens of the world",
+      "intro": "We bring together services, products and knowledge so you can take the next step of your international life with confidence. We help you:",
+      "items": [
+        "Move residency, emigrate or live as a perpetual traveler",
+        "Open companies and accounts in the best countries for business",
+        "Reduce bureaucracy, optimize taxes and protect your wealth legally",
+        "Obtain second citizenships and passports for your plan B",
+        "Adopt the digital nomad lifestyle with comfort and savings",
+        "Grow your wealth with international investments"
+      ],
+      "ctaPrimary": "Book a call",
+      "ctaSecondary": "Our services and products"
+    },
+    "flagTheory": {
+      "eyebrow": "Flag Theory",
+      "title": "Plant your flags around the world",
+      "intro": "The classic strategy of international freedom: place each area of your life in the best country for it — and stop depending on a single place.",
+      "flags": [
+        { "title": "Citizenship", "desc": "A strong passport and your plan B." },
+        { "title": "Tax residency", "desc": "Where you legally pay less tax." },
+        { "title": "Company", "desc": "Where your business thrives and operates." },
+        { "title": "Wealth", "desc": "Where your money stays protected." },
+        { "title": "Education", "desc": "Where you or your children study, with globally recognized degrees." },
+        { "title": "Lifestyle", "desc": "Where you actually want to live." }
+      ]
+    },
+    "group": {
+      "eyebrow": "Services and products",
+      "title": "Everything the group offers",
+      "cta": "Our services and products"
+    },
+    "testimonials": {
+      "eyebrow": "Testimonials",
+      "title": "Stories from those already living with more freedom",
+      "list": [
+        { "quote": "In under a year I consolidated my company abroad and reduced my tax burden 100% legally. It changed my life.", "name": "Mariana Alves", "role": "Digital entrepreneur" },
+        { "quote": "The team guided me through every step of my second citizenship. Now I have my plan B and sleep peacefully.", "name": "Rafael Costa", "role": "Investor" },
+        { "quote": "I went from zero to resident status in another country with far less bureaucracy than I imagined.", "name": "Juliana Mendes", "role": "Digital nomad" }
+      ]
+    },
+    "newsletter": {
+      "eyebrow": "Newsletter",
+      "title": "Get freedom strategies in your inbox",
+      "subtitle": "Content on residency, taxes, citizenship and international investments. No spam.",
+      "placeholder": "Your best email",
+      "button": "Subscribe",
+      "disclaimer": "By subscribing, you agree to our privacy policy."
+    }
+  },
+  "footer": {
+    "tagline": "Your laboratory for your freedom.",
+    "nav": "Navigation",
+    "explore": "Explore",
+    "legal": "Legal",
+    "privacy": "Privacy policy",
+    "terms": "Terms of use",
+    "rights": "All rights reserved.",
+    "madeWith": "Built for citizens of the world."
+  },
+  "services": {
+    "eyebrow": "What we do",
+    "title": "Services",
+    "subtitle": "Complete strategy for your international life, from diagnosis to execution.",
+    "list": [
+      { "title": "Residency and immigration", "desc": "Planning and execution of residency changes, visas and emigration to the right destinations." },
+      { "title": "Companies and accounts abroad", "desc": "Opening companies and bank accounts in the best countries for business." },
+      { "title": "Tax optimization", "desc": "Legal strategies to reduce taxes and protect your wealth." },
+      { "title": "Second citizenship and passports", "desc": "Citizenship and residency programs to build your plan B." },
+      { "title": "Digital nomad lifestyle", "desc": "A setup to live and work from anywhere with comfort." },
+      { "title": "International investments", "desc": "Access and guidance to grow your wealth outside your country." },
+      { "title": "International real estate", "desc": "Buy, sell and manage property abroad — to live, invest or earn income." },
+      { "title": "International farmland", "desc": "Acquire land and farms abroad as a real asset and wealth diversification." },
+      { "title": "International healthcare", "desc": "Access to world-class health systems and global medical insurance." },
+      { "title": "International work opportunities", "desc": "Jobs, work visas and pathways to build a career abroad." },
+      { "title": "International study opportunities", "desc": "Universities, exchanges and student visas in the best destinations." },
+      { "title": "Whole-family migration", "desc": "Relocation planning for the entire family — children and seniors included, with care at every step." },
+      { "title": "Full pet relocation abroad", "desc": "Transport, paperwork and quarantine for your pets — an international move that leaves no one behind." }
+    ],
+    "cta": "Book a call"
+  },
+  "products": {
+    "eyebrow": "What we do",
+    "title": "Products",
+    "subtitle": "Actionable knowledge so you can move with autonomy.",
+    "list": [
+      { "tag": "Product 1 · HofShiLang", "title": "LLF Ebook", "desc": "The essential guide to start your journey toward freedom — Live Life Free. Practical strategies for mobility, finance and global citizenship.", "cta": "Learn more" }
+    ]
+  },
+  "companies": {
+    "eyebrow": "What we do",
+    "title": "Companies",
+    "subtitle": "The brands that make up Hofshilab Group.",
+    "list": [
+      { "name": "HofShiLang", "tagline": "Content and education for international life", "desc": "The group's first company, dedicated to producing actionable knowledge on freedom, mobility and global citizenship. Maker of the LLF Ebook.", "cta": "Discover" }
+    ]
+  },
+  "about": {
+    "eyebrow": "About us",
+    "title": "A group built on the idea of freedom",
+    "lead": "Hofshilab Group was born to turn the complexity of international life into a clear, strategic path.",
+    "body": "We bring together companies, specialists and products focused on international mobility, wealth structuring and global citizenship. We believe freedom is a project built with strategy — and we are here to guide every step.",
+    "valuesTitle": "What we believe",
+    "values": [
+      { "title": "Freedom", "desc": "Every decision expands our clients' life options." },
+      { "title": "Strategy", "desc": "We turn bureaucracy into clear, executable plans." },
+      { "title": "Integrity", "desc": "Everything legal, transparent and sustainable." }
+    ],
+    "cta": "Book a call"
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Let's map your route to freedom",
+    "subtitle": "Tell us a bit about your goal. Our team replies within 48 business hours.",
+    "form": {
+      "name": "Name",
+      "namePlaceholder": "Your full name",
+      "email": "Email",
+      "emailPlaceholder": "you@email.com",
+      "interest": "I'm interested in",
+      "message": "Message",
+      "messagePlaceholder": "Tell us about your freedom goal...",
+      "submit": "Send message",
+      "note": "Illustrative form — submission integration will be connected soon."
+    },
+    "channelsTitle": "Other channels",
+    "email": "contato@hofshilab.group",
+    "scheduleTitle": "Prefer to talk now?",
+    "scheduleDesc": "Book a call with our team.",
+    "scheduleCta": "Book a call"
+  },
+  "blog": {
+    "eyebrow": "Blog",
+    "title": "Ideas for citizens of the world",
+    "subtitle": "Strategies on residency, taxes, citizenship and international investments.",
+    "readMore": "Read article",
+    "backToList": "Back to blog",
+    "publishedOn": "Published on"
+  },
+  "projects": {
+    "eyebrow": "Projects",
+    "title": "Group cases and initiatives",
+    "subtitle": "Real stories and initiatives that expand our clients' freedom.",
+    "viewProject": "View project",
+    "backToList": "Back to projects"
+  },
+  "notFound": {
+    "title": "Page not found",
+    "subtitle": "The page you are looking for doesn't exist or was moved.",
+    "cta": "Back to Home"
+  }
+}

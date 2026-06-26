@@ -1,0 +1,203 @@
+{
+  "brand": {
+    "name": "Hofshilab Group",
+    "tagline": "O seu laboratório para a sua liberdade"
+  },
+  "nav": {
+    "home": "Home",
+    "whatWeDo": "O que fazemos",
+    "services": "Serviços",
+    "servicesDesc": "Estratégia completa para a sua vida internacional",
+    "products": "Produtos",
+    "productsDesc": "Conhecimento aplicável para agir com autonomia",
+    "companies": "Empresas",
+    "companiesDesc": "As marcas que formam o grupo",
+    "blog": "Blog",
+    "projects": "Projetos",
+    "about": "Sobre nós",
+    "contact": "Contato",
+    "cta": "Agendar chamada",
+    "openMenu": "Abrir menu",
+    "closeMenu": "Fechar menu",
+    "language": "Idioma"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Hofshilab Group",
+      "title": "O seu laboratório para a sua liberdade",
+      "subtitle": "Estruturamos sua vida internacional — residência, empresas, impostos e cidadania — para você viver onde quiser, do seu jeito.",
+      "ctaPrimary": "Agendar chamada",
+      "ctaSecondary": "Conheça nossos serviços"
+    },
+    "purpose": {
+      "eyebrow": "Nosso propósito",
+      "title": "Mais liberdade, em todas as dimensões da sua vida",
+      "body": "Existimos para ampliar as suas liberdades — financeira, geográfica, fiscal e pessoal. Traçamos com você a rota para morar, investir e empreender sem fronteiras.",
+      "items": {
+        "financial": { "title": "Liberdade financeira", "desc": "Estruture patrimônio e renda para crescer com segurança no exterior." },
+        "geographic": { "title": "Liberdade geográfica", "desc": "Viva e trabalhe de onde quiser, como um verdadeiro cidadão do mundo." },
+        "fiscal": { "title": "Liberdade fiscal", "desc": "Otimize impostos de forma legal e durma tranquilo." },
+        "personal": { "title": "Liberdade pessoal", "desc": "Um plano B sólido: segundas cidadanias e passaportes." }
+      }
+    },
+    "whoWeAre": {
+      "eyebrow": "Quem somos",
+      "title": "Um grupo dedicado a quem quer viver sem fronteiras",
+      "body": "O Hofshilab Group reúne empresas e especialistas em mobilidade internacional, estruturação patrimonial e cidadania global. Transformamos burocracia em estratégia para que você conquiste a vida que deseja.",
+      "cta": "Saiba mais",
+      "sealValue": "100+",
+      "seal": "países ao seu alcance"
+    },
+    "freedom": {
+      "eyebrow": "Serviços e produtos",
+      "title": "Ajudamos pessoas livres a se tornarem cidadãs do mundo",
+      "intro": "Reunimos serviços, produtos e conhecimento para você dar o próximo passo da sua vida internacional com confiança. Ajudamos você a:",
+      "items": [
+        "Mudar de residência, emigrar ou viver como viajante perpétuo",
+        "Abrir empresas e contas nos melhores países para negócios",
+        "Reduzir burocracia, otimizar impostos e proteger seu patrimônio de forma legal",
+        "Conquistar segundas cidadanias e passaportes para o seu plano B",
+        "Adotar o estilo de vida nômade digital com conforto e economia",
+        "Fazer seu patrimônio crescer com investimentos internacionais"
+      ],
+      "ctaPrimary": "Agendar chamada",
+      "ctaSecondary": "Nossos serviços e produtos"
+    },
+    "flagTheory": {
+      "eyebrow": "Teoria das Bandeiras",
+      "title": "Plante suas bandeiras pelo mundo",
+      "intro": "A estratégia clássica da liberdade internacional: distribua cada área da sua vida pelo melhor país para ela — e deixe de depender de um só lugar.",
+      "flags": [
+        { "title": "Cidadania", "desc": "Um passaporte forte e o seu plano B." },
+        { "title": "Residência fiscal", "desc": "Onde você paga menos impostos, de forma legal." },
+        { "title": "Empresa", "desc": "Onde o seu negócio prospera e opera." },
+        { "title": "Patrimônio", "desc": "Onde o seu dinheiro fica protegido." },
+        { "title": "Estudo", "desc": "Onde você ou seus filhos estudam, com diplomas de alcance global." },
+        { "title": "Estilo de vida", "desc": "Onde você realmente quer viver." }
+      ]
+    },
+    "group": {
+      "eyebrow": "Serviços e produtos",
+      "title": "Tudo o que o grupo oferece",
+      "cta": "Nossos serviços e produtos"
+    },
+    "testimonials": {
+      "eyebrow": "Depoimentos",
+      "title": "Histórias de quem já vive com mais liberdade",
+      "list": [
+        { "quote": "Em menos de um ano consolidei minha empresa no exterior e reduzi minha carga tributária de forma 100% legal. Mudou minha vida.", "name": "Mariana Alves", "role": "Empreendedora digital" },
+        { "quote": "A equipe me guiou em cada etapa da segunda cidadania. Hoje tenho meu plano B e durmo tranquilo.", "name": "Rafael Costa", "role": "Investidor" },
+        { "quote": "Saí do zero ao status de residente em outro país com muito menos burocracia do que imaginava.", "name": "Juliana Mendes", "role": "Nômade digital" }
+      ]
+    },
+    "newsletter": {
+      "eyebrow": "Newsletter",
+      "title": "Receba estratégias de liberdade na sua caixa de entrada",
+      "subtitle": "Conteúdos sobre residência, impostos, cidadania e investimentos internacionais. Sem spam.",
+      "placeholder": "Seu melhor e-mail",
+      "button": "Inscrever-se",
+      "disclaimer": "Ao se inscrever, você concorda com a nossa política de privacidade."
+    }
+  },
+  "footer": {
+    "tagline": "O seu laboratório para a sua liberdade.",
+    "nav": "Navegação",
+    "explore": "Explorar",
+    "legal": "Legal",
+    "privacy": "Política de privacidade",
+    "terms": "Termos de uso",
+    "rights": "Todos os direitos reservados.",
+    "madeWith": "Construído para cidadãos do mundo."
+  },
+  "services": {
+    "eyebrow": "O que fazemos",
+    "title": "Serviços",
+    "subtitle": "Estratégia completa para a sua vida internacional, do diagnóstico à execução.",
+    "list": [
+      { "title": "Residência e imigração", "desc": "Planejamento e execução de mudança de residência, vistos e emigração para os destinos certos." },
+      { "title": "Empresas e contas no exterior", "desc": "Abertura de empresas e contas bancárias nos melhores países para negócios." },
+      { "title": "Otimização fiscal", "desc": "Estratégias legais para reduzir impostos e proteger seu patrimônio." },
+      { "title": "Segunda cidadania e passaportes", "desc": "Programas de cidadania e residência para construir o seu plano B." },
+      { "title": "Estilo de vida nômade digital", "desc": "Estrutura para viver e trabalhar de qualquer lugar com conforto." },
+      { "title": "Investimentos internacionais", "desc": "Acesso e orientação para crescer seu patrimônio fora do seu país." },
+      { "title": "Imóveis internacionais", "desc": "Compra, venda e gestão de imóveis no exterior — para morar, investir ou rentabilizar." },
+      { "title": "Fazendas internacionais", "desc": "Aquisição de terras e fazendas no exterior como ativo real e diversificação de patrimônio." },
+      { "title": "Saúde internacional", "desc": "Acesso a sistemas de saúde e seguros médicos globais de alto padrão." },
+      { "title": "Oportunidades de trabalho internacionais", "desc": "Vagas, vistos de trabalho e caminhos para construir carreira no exterior." },
+      { "title": "Oportunidades de estudo internacionais", "desc": "Universidades, intercâmbios e vistos de estudante nos melhores destinos." },
+      { "title": "Migração de toda a família", "desc": "Planejamento da mudança para a família inteira — crianças e idosos incluídos, com cuidado em cada etapa." },
+      { "title": "Migração completa de animais para o exterior", "desc": "Transporte, documentação e quarentena dos seus pets — mudança internacional sem deixar ninguém para trás." }
+    ],
+    "cta": "Agendar chamada"
+  },
+  "products": {
+    "eyebrow": "O que fazemos",
+    "title": "Produtos",
+    "subtitle": "Conhecimento aplicável para você agir com autonomia.",
+    "list": [
+      { "tag": "Produto 1 · HofShiLang", "title": "LLF Ebook", "desc": "O guia essencial para começar sua jornada rumo à liberdade — Live Life Free. Estratégias práticas de mobilidade, finanças e cidadania global.", "cta": "Saiba mais" }
+    ]
+  },
+  "companies": {
+    "eyebrow": "O que fazemos",
+    "title": "Empresas",
+    "subtitle": "As marcas que formam o Hofshilab Group.",
+    "list": [
+      { "name": "HofShiLang", "tagline": "Conteúdo e educação para a vida internacional", "desc": "Primeira empresa do grupo, dedicada a produzir conhecimento aplicável sobre liberdade, mobilidade e cidadania global. Responsável pelo LLF Ebook.", "cta": "Conhecer" }
+    ]
+  },
+  "about": {
+    "eyebrow": "Sobre nós",
+    "title": "Um grupo construído sobre a ideia de liberdade",
+    "lead": "O Hofshilab Group nasceu para transformar a complexidade da vida internacional em um caminho claro e estratégico.",
+    "body": "Reunimos empresas, especialistas e produtos focados em mobilidade internacional, estruturação patrimonial e cidadania global. Acreditamos que liberdade é um projeto que se constrói com estratégia — e estamos aqui para guiar cada passo.",
+    "valuesTitle": "No que acreditamos",
+    "values": [
+      { "title": "Liberdade", "desc": "Cada decisão amplia as opções de vida dos nossos clientes." },
+      { "title": "Estratégia", "desc": "Transformamos burocracia em planos claros e executáveis." },
+      { "title": "Integridade", "desc": "Tudo de forma legal, transparente e sustentável." }
+    ],
+    "cta": "Agendar chamada"
+  },
+  "contact": {
+    "eyebrow": "Contato",
+    "title": "Vamos traçar a sua rota para a liberdade",
+    "subtitle": "Conte um pouco sobre o seu objetivo. Nossa equipe responde em até 48 horas úteis.",
+    "form": {
+      "name": "Nome",
+      "namePlaceholder": "Seu nome completo",
+      "email": "E-mail",
+      "emailPlaceholder": "voce@email.com",
+      "interest": "Tenho interesse em",
+      "message": "Mensagem",
+      "messagePlaceholder": "Conte sobre o seu objetivo de liberdade...",
+      "submit": "Enviar mensagem",
+      "note": "Formulário ilustrativo — integração de envio será conectada em breve."
+    },
+    "channelsTitle": "Outros canais",
+    "email": "contato@hofshilab.group",
+    "scheduleTitle": "Prefere conversar agora?",
+    "scheduleDesc": "Agende uma chamada com a nossa equipe.",
+    "scheduleCta": "Agendar chamada"
+  },
+  "blog": {
+    "eyebrow": "Blog",
+    "title": "Ideias para cidadãos do mundo",
+    "subtitle": "Estratégias de residência, impostos, cidadania e investimentos internacionais.",
+    "readMore": "Ler artigo",
+    "backToList": "Voltar ao blog",
+    "publishedOn": "Publicado em"
+  },
+  "projects": {
+    "eyebrow": "Projetos",
+    "title": "Casos e iniciativas do grupo",
+    "subtitle": "Histórias reais e iniciativas que ampliam a liberdade dos nossos clientes.",
+    "viewProject": "Ver projeto",
+    "backToList": "Voltar aos projetos"
+  },
+  "notFound": {
+    "title": "Página não encontrada",
+    "subtitle": "A página que você procura não existe ou foi movida.",
+    "cta": "Voltar para a Home"
+  }
+}

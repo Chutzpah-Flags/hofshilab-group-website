@@ -1,7 +1,7 @@
 {
   "brand": {
     "name": "Hofshilab Group",
-    "tagline": "Tu laboratorio para tu libertad"
+    "tagline": "Tu laboratorio para la libertad"
   },
   "nav": {
     "home": "Inicio",
@@ -24,7 +24,7 @@
   "home": {
     "hero": {
       "eyebrow": "Hofshilab Group",
-      "title": "Tu laboratorio para tu libertad",
+      "title": "Tu laboratorio para la libertad",
       "subtitle": "Estructuramos tu vida internacional — residencia, empresas, impuestos y ciudadanía — para que vivas donde quieras, a tu manera.",
       "ctaPrimary": "Agendar llamada",
       "ctaSecondary": "Conoce nuestros servicios"
@@ -100,7 +100,7 @@
     }
   },
   "footer": {
-    "tagline": "Tu laboratorio para tu libertad.",
+    "tagline": "Tu laboratorio para la libertad.",
     "nav": "Navegación",
     "explore": "Explorar",
     "legal": "Legal",
